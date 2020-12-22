@@ -1,0 +1,10 @@
+(module DJ6118-6.3_0.8 (layer F.Cu) (tedit 5FE211B1)
+  (fp_text reference U2 (at -1.27 -5.624322) (layer F.SilkS)
+    (effects (font (size 1.143 1.143) (thickness 0.1524)) (justify left))
+  )
+  (fp_text value DJ6118-6.3*0.8 (at -6.35 -7.62) (layer F.Fab) hide
+    (effects (font (size 1.143 1.143) (thickness 0.1524)) (justify left))
+  )
+  (pad 1 thru_hole rect (at 0 -2.560066 90) (size 3.999992 2.999994) (drill oval 1.500022 0.999998) (layers *.Cu *.Mask))
+  (pad 1 thru_hole rect (at 0 2.54 90) (size 3.999992 2.999994) (drill oval 1.500022 0.999998) (layers *.Cu *.Mask))
+)
