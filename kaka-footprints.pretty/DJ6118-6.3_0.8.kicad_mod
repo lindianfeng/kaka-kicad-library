@@ -1,4 +1,4 @@
-(module DJ6118-6.3_0.8 (layer F.Cu) (tedit 5FE211B1)
+(module DJ6118-6.3_0.8 (layer F.Cu) (tedit 5FE75365)
   (fp_text reference U2 (at -1.27 -5.624322) (layer F.SilkS)
     (effects (font (size 1.143 1.143) (thickness 0.1524)) (justify left))
   )
