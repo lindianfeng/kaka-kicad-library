@@ -1,4 +1,4 @@
-(module BAT-SMD_CR2032-3V (layer F.Cu) (tedit 5FEBDE45)
+(module BAT-SMD_CR2032-3V (layer F.Cu) (tedit 5FEDCC82)
   (attr smd)
   (fp_text reference BAT (at -1.51 -14.09) (layer F.SilkS)
     (effects (font (size 1.143 1.143) (thickness 0.1524)) (justify left))
@@ -16,4 +16,9 @@
   (pad 2 smd circle (at 0 -0.127) (size 13.999997 13.999997) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at 0 11.599926) (size 2.999994 2.499995) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at 0 -11.599926) (size 2.999994 2.499995) (layers F.Cu F.Paste F.Mask))
+  (model "E:/kicadlib/package3d/CircuitWorks-BATT CR2032.STEP"
+    (offset (xyz 0 0 2))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 90 0 0))
+  )
 )
