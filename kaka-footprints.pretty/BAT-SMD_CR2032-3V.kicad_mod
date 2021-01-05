@@ -1,4 +1,5 @@
-(module BAT-SMD_CR2032-3V (layer F.Cu) (tedit 5FEDCC82)
+(module BAT-SMD_CR2032-3V (layer F.Cu) (tedit 5FF2DD29)
+  (descr "BAT-SMD_CR2032 https://item.szlcsc.com/71468.html")
   (attr smd)
   (fp_text reference BAT (at -1.51 -14.09) (layer F.SilkS)
     (effects (font (size 1.143 1.143) (thickness 0.1524)) (justify left))
