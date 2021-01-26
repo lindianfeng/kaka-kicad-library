@@ -4,4 +4,10 @@ $CMP DHT11_OR_22
 K DHT
 $ENDCMP
 #
+$CMP ESP32-WROOM
+D ESP32 WROOM
+K ESP32 WROOM
+F https://atta.szlcsc.com/upload/public/pdf/source/20200706/C82899_ED2160E838F9792696D333BBC2CC7A75.pdf
+$ENDCMP
+#
 #End Doc Library
