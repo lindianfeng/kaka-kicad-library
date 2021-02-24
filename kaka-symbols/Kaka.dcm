@@ -12,7 +12,7 @@ $ENDCMP
 #
 $CMP IP2721
 D Support TYPEC/PD2.0/PD3.0 UFP mode for USB
-K PD3.0 
+K PD3.0
 $ENDCMP
 #
 $CMP IPD053N08
@@ -43,6 +43,11 @@ $CMP QM6006D
 D 35A Id, 60V Vds, N-Channel Power MOSFET, 18mOhm Ron, 19.3nC Qg (typ), TO252
 K N-Channel MOSFET
 F http://www.jaolen.com/images/pdf/QM6006D.pdf
+$ENDCMP
+#
+$CMP SW-EC11E15244G1
+D 编码器 https://item.szlcsc.com/344654.html
+K 编码器
 $ENDCMP
 #
 #End Doc Library
