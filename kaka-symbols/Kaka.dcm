@@ -10,4 +10,39 @@ K ESP32 WROOM
 F https://atta.szlcsc.com/upload/public/pdf/source/20200706/C82899_ED2160E838F9792696D333BBC2CC7A75.pdf
 $ENDCMP
 #
+$CMP IP2721
+D Support TYPEC/PD2.0/PD3.0 UFP mode for USB
+K PD3.0 
+$ENDCMP
+#
+$CMP IPD053N08
+D 90A Id, 80Vds, N-Channel Power MOSFET, 5.3 mOhm Ron,19nC Qg (typ), TO-252-2
+K Power MOSFET N-MOS
+F https://www.infineon.com/dgdl/Infineon-IPD50R380CE-DS-v02_01-en.pdf?fileId=db3a30433ecb86d4013ed0a2ef580f38
+$ENDCMP
+#
+$CMP IPD50R3K0CE
+D 1.7A Id, 500V Vds, CoolMOS N-Channel Power MOSFET, 3Ohm Ron, 4.3nC Qg (typ), TO-252-2
+K CoolMOS Power MOSFET N-MOS
+F https://www.infineon.com/dgdl/IPx50R3K0CE_2_0.pdf?folderId=db3a3043163797a6011637d4bae7003b&fileId=db3a304339dcf4b10139e7e9ff592ce4
+$ENDCMP
+#
+$CMP MMBT5401
+D 0.6A Ic, 160V Vce, SOT-23
+K PNP Transistor
+F https://www.onsemi.com/pub/Collateral/BC556BTA-D.pdf
+$ENDCMP
+#
+$CMP MMBT5551
+D 0.8A Ic, 45V Vce, NPN Transistor, SOT-23
+K NPN Transistor
+F https://www.onsemi.com/pub/Collateral/BC818-D.pdf
+$ENDCMP
+#
+$CMP QM6006D
+D 35A Id, 60V Vds, N-Channel Power MOSFET, 18mOhm Ron, 19.3nC Qg (typ), TO252
+K N-Channel MOSFET
+F http://www.jaolen.com/images/pdf/QM6006D.pdf
+$ENDCMP
+#
 #End Doc Library
